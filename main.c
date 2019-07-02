@@ -15,3 +15,5 @@ int main(int argc, char **argv)
 	printf("Hello %s %s!\n", first, last);
  	return 0;
 }
+
+duc fix bug version 01
